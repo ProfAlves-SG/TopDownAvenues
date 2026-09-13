@@ -1,0 +1,3213 @@
+fileFormatVersion: 2
+guid: 2c1e29f6265c92543a5ed83011d35f93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3818035123338196842
+    second: TinyLibraryAssets (1)_0
+  - first:
+      213: 5916438153592021951
+    second: TinyLibraryAssets (1)_1
+  - first:
+      213: 4973287869087551760
+    second: TinyLibraryAssets (1)_2
+  - first:
+      213: 8802298138618723043
+    second: TinyLibraryAssets (1)_3
+  - first:
+      213: -8636237618886601873
+    second: TinyLibraryAssets (1)_4
+  - first:
+      213: -7006727634646744922
+    second: TinyLibraryAssets (1)_5
+  - first:
+      213: 7342598431300324412
+    second: TinyLibraryAssets (1)_6
+  - first:
+      213: 2144705660682782704
+    second: TinyLibraryAssets (1)_7
+  - first:
+      213: 1517262604735490328
+    second: TinyLibraryAssets (1)_8
+  - first:
+      213: -1556903745292405835
+    second: TinyLibraryAssets (1)_9
+  - first:
+      213: -8399780459029847393
+    second: TinyLibraryAssets (1)_10
+  - first:
+      213: -3463956975573749753
+    second: TinyLibraryAssets (1)_11
+  - first:
+      213: -724290963046391374
+    second: TinyLibraryAssets (1)_12
+  - first:
+      213: 7324805087108534352
+    second: TinyLibraryAssets (1)_13
+  - first:
+      213: -1856060604167608639
+    second: TinyLibraryAssets (1)_14
+  - first:
+      213: -8783367678057845293
+    second: TinyLibraryAssets (1)_15
+  - first:
+      213: 8030736885671361153
+    second: TinyLibraryAssets (1)_16
+  - first:
+      213: 7836383876566927322
+    second: TinyLibraryAssets (1)_17
+  - first:
+      213: 4688198417635620956
+    second: TinyLibraryAssets (1)_18
+  - first:
+      213: 5448989965342200793
+    second: TinyLibraryAssets (1)_19
+  - first:
+      213: -8828660579258902931
+    second: TinyLibraryAssets (1)_20
+  - first:
+      213: 5707517796905961751
+    second: TinyLibraryAssets (1)_21
+  - first:
+      213: -101171022873456330
+    second: TinyLibraryAssets (1)_22
+  - first:
+      213: -8052278489443800428
+    second: TinyLibraryAssets (1)_23
+  - first:
+      213: -6506472170246892252
+    second: TinyLibraryAssets (1)_24
+  - first:
+      213: -5614887376325407911
+    second: TinyLibraryAssets (1)_25
+  - first:
+      213: -8358845810575653645
+    second: TinyLibraryAssets (1)_26
+  - first:
+      213: 2964015180958556988
+    second: TinyLibraryAssets (1)_27
+  - first:
+      213: 6925749801961227912
+    second: TinyLibraryAssets (1)_28
+  - first:
+      213: -3234704258020882490
+    second: TinyLibraryAssets (1)_29
+  - first:
+      213: -9211264518915100599
+    second: TinyLibraryAssets (1)_30
+  - first:
+      213: 9021154910829605145
+    second: TinyLibraryAssets (1)_31
+  - first:
+      213: 7161168529012752028
+    second: TinyLibraryAssets (1)_32
+  - first:
+      213: -5485487701798045062
+    second: TinyLibraryAssets (1)_33
+  - first:
+      213: -4133550724522572775
+    second: TinyLibraryAssets (1)_34
+  - first:
+      213: -8658840608209163658
+    second: TinyLibraryAssets (1)_35
+  - first:
+      213: -8423166503876614157
+    second: TinyLibraryAssets (1)_36
+  - first:
+      213: 3223419894699513517
+    second: TinyLibraryAssets (1)_37
+  - first:
+      213: 2370236223017303952
+    second: TinyLibraryAssets (1)_38
+  - first:
+      213: 7324941759305569503
+    second: TinyLibraryAssets (1)_39
+  - first:
+      213: -6920732892956427060
+    second: TinyLibraryAssets (1)_40
+  - first:
+      213: 2916014423904102043
+    second: TinyLibraryAssets (1)_41
+  - first:
+      213: -5684250865710727922
+    second: TinyLibraryAssets (1)_42
+  - first:
+      213: 1998976770834319585
+    second: TinyLibraryAssets (1)_43
+  - first:
+      213: 4651023116641398812
+    second: TinyLibraryAssets (1)_44
+  - first:
+      213: -6912953935213453606
+    second: TinyLibraryAssets (1)_45
+  - first:
+      213: -4692714537202488770
+    second: TinyLibraryAssets (1)_46
+  - first:
+      213: 3391006619581826921
+    second: TinyLibraryAssets (1)_47
+  - first:
+      213: 6088852662397348297
+    second: TinyLibraryAssets (1)_48
+  - first:
+      213: 3134970706475750369
+    second: TinyLibraryAssets (1)_49
+  - first:
+      213: 358217352834495421
+    second: TinyLibraryAssets (1)_50
+  - first:
+      213: 7914514815829303750
+    second: TinyLibraryAssets (1)_51
+  - first:
+      213: -7106751341641253682
+    second: TinyLibraryAssets (1)_52
+  - first:
+      213: 4810797637177429889
+    second: TinyLibraryAssets (1)_53
+  - first:
+      213: -4129647765665150643
+    second: TinyLibraryAssets (1)_54
+  - first:
+      213: 1388121430870041498
+    second: TinyLibraryAssets (1)_55
+  - first:
+      213: 8675510713561423672
+    second: TinyLibraryAssets (1)_56
+  - first:
+      213: 550005241852342456
+    second: TinyLibraryAssets (1)_57
+  - first:
+      213: -4828473680085543173
+    second: TinyLibraryAssets (1)_58
+  - first:
+      213: 2706891978749233822
+    second: TinyLibraryAssets (1)_59
+  - first:
+      213: 375733826360628266
+    second: TinyLibraryAssets (1)_60
+  - first:
+      213: -259088353764117861
+    second: TinyLibraryAssets (1)_61
+  - first:
+      213: -3893152485770733982
+    second: TinyLibraryAssets (1)_62
+  - first:
+      213: 6490395042021031692
+    second: TinyLibraryAssets (1)_63
+  - first:
+      213: 3222003475552272393
+    second: TinyLibraryAssets (1)_64
+  - first:
+      213: -4012515180487045140
+    second: TinyLibraryAssets (1)_65
+  - first:
+      213: -625079198124168471
+    second: TinyLibraryAssets (1)_66
+  - first:
+      213: -6311379559668340338
+    second: TinyLibraryAssets (1)_67
+  - first:
+      213: 3671868178185733137
+    second: TinyLibraryAssets (1)_68
+  - first:
+      213: -5637326110855163474
+    second: TinyLibraryAssets (1)_69
+  - first:
+      213: 7036153201088893396
+    second: TinyLibraryAssets (1)_70
+  - first:
+      213: -4222541401408844341
+    second: TinyLibraryAssets (1)_71
+  - first:
+      213: -470089249316927413
+    second: TinyLibraryAssets (1)_72
+  - first:
+      213: -9045549470530910509
+    second: TinyLibraryAssets (1)_73
+  - first:
+      213: -7539866327738268362
+    second: TinyLibraryAssets (1)_74
+  - first:
+      213: 5016338777994566106
+    second: TinyLibraryAssets (1)_75
+  - first:
+      213: 616711518580695804
+    second: TinyLibraryAssets (1)_76
+  - first:
+      213: 9104312913467264552
+    second: TinyLibraryAssets (1)_77
+  - first:
+      213: -8348227893137211570
+    second: TinyLibraryAssets (1)_78
+  - first:
+      213: 596956211158460199
+    second: TinyLibraryAssets (1)_79
+  - first:
+      213: 4133870184178521102
+    second: TinyLibraryAssets (1)_80
+  - first:
+      213: -3434042690773216208
+    second: TinyLibraryAssets (1)_81
+  - first:
+      213: 4358286426856017040
+    second: TinyLibraryAssets (1)_82
+  - first:
+      213: 3550716580844384671
+    second: TinyLibraryAssets (1)_83
+  - first:
+      213: -3360729396366501065
+    second: TinyLibraryAssets (1)_84
+  - first:
+      213: -80497332765727987
+    second: TinyLibraryAssets (1)_85
+  - first:
+      213: -1315164818842797478
+    second: TinyLibraryAssets (1)_86
+  - first:
+      213: 5645755870191371186
+    second: TinyLibraryAssets (1)_87
+  - first:
+      213: -3249275081063080429
+    second: TinyLibraryAssets (1)_88
+  - first:
+      213: -4358445362337334385
+    second: TinyLibraryAssets (1)_89
+  - first:
+      213: 8335461464342160231
+    second: TinyLibraryAssets (1)_90
+  - first:
+      213: -2302995920637375108
+    second: TinyLibraryAssets (1)_91
+  - first:
+      213: -6527277233971086555
+    second: TinyLibraryAssets (1)_92
+  - first:
+      213: -3738403334478619477
+    second: TinyLibraryAssets (1)_93
+  - first:
+      213: 8984404695476310626
+    second: TinyLibraryAssets (1)_94
+  - first:
+      213: -5549277124027232544
+    second: TinyLibraryAssets (1)_95
+  - first:
+      213: 2934338918623666045
+    second: TinyLibraryAssets (1)_96
+  - first:
+      213: 6186041212721815258
+    second: TinyLibraryAssets (1)_97
+  - first:
+      213: -3181399422691849915
+    second: TinyLibraryAssets (1)_98
+  - first:
+      213: 5650105180400882079
+    second: TinyLibraryAssets (1)_99
+  - first:
+      213: -2347093611541527782
+    second: TinyLibraryAssets (1)_100
+  - first:
+      213: -4697026043670550886
+    second: TinyLibraryAssets (1)_101
+  - first:
+      213: -2560703357944008422
+    second: TinyLibraryAssets (1)_102
+  - first:
+      213: -8373487292916223229
+    second: TinyLibraryAssets (1)_103
+  - first:
+      213: -8445476796497264422
+    second: TinyLibraryAssets (1)_104
+  - first:
+      213: 67032145018650861
+    second: TinyLibraryAssets (1)_105
+  - first:
+      213: -9137905198747388218
+    second: TinyLibraryAssets (1)_106
+  - first:
+      213: -8442736247522144057
+    second: TinyLibraryAssets (1)_107
+  - first:
+      213: 9000578603278453567
+    second: TinyLibraryAssets (1)_108
+  - first:
+      213: -6883937654208668113
+    second: TinyLibraryAssets (1)_109
+  - first:
+      213: -6383045886277831952
+    second: TinyLibraryAssets (1)_110
+  - first:
+      213: 612838154650167580
+    second: TinyLibraryAssets (1)_111
+  - first:
+      213: 4803530777120740646
+    second: TinyLibraryAssets (1)_112
+  - first:
+      213: -5687456481042963088
+    second: TinyLibraryAssets (1)_113
+  - first:
+      213: -7445710018546083028
+    second: TinyLibraryAssets (1)_114
+  - first:
+      213: -1444942504746002098
+    second: TinyLibraryAssets (1)_115
+  - first:
+      213: 7878990042923531767
+    second: TinyLibraryAssets (1)_116
+  - first:
+      213: -3503910926211179681
+    second: TinyLibraryAssets (1)_117
+  - first:
+      213: -8646740178975622509
+    second: TinyLibraryAssets (1)_118
+  - first:
+      213: -3324822372661777747
+    second: TinyLibraryAssets (1)_119
+  - first:
+      213: 973639028436070973
+    second: TinyLibraryAssets (1)_120
+  - first:
+      213: 4817766334964679537
+    second: TinyLibraryAssets (1)_121
+  - first:
+      213: 3990243118584851378
+    second: TinyLibraryAssets (1)_122
+  - first:
+      213: -7155589065292628892
+    second: TinyLibraryAssets (1)_123
+  - first:
+      213: 7130191575669174054
+    second: TinyLibraryAssets (1)_124
+  - first:
+      213: 9090397856050834182
+    second: TinyLibraryAssets (1)_125
+  - first:
+      213: -5079859758892640270
+    second: TinyLibraryAssets (1)_126
+  - first:
+      213: 3957206194364827490
+    second: TinyLibraryAssets (1)_127
+  - first:
+      213: -6899440387033229611
+    second: TinyLibraryAssets (1)_128
+  - first:
+      213: -6726927677834579251
+    second: TinyLibraryAssets (1)_129
+  - first:
+      213: 1008056380350917535
+    second: TinyLibraryAssets (1)_130
+  - first:
+      213: 648425771106303164
+    second: TinyLibraryAssets (1)_131
+  - first:
+      213: -4792287921086224725
+    second: TinyLibraryAssets (1)_132
+  - first:
+      213: 7691932631018320800
+    second: TinyLibraryAssets (1)_133
+  - first:
+      213: -967303953480863545
+    second: TinyLibraryAssets (1)_134
+  - first:
+      213: -8204015709208682344
+    second: TinyLibraryAssets (1)_135
+  - first:
+      213: -5339431900599921592
+    second: TinyLibraryAssets (1)_136
+  - first:
+      213: -4939361117003939450
+    second: TinyLibraryAssets (1)_137
+  - first:
+      213: -178245279365443212
+    second: TinyLibraryAssets (1)_138
+  - first:
+      213: 3207404464735998248
+    second: TinyLibraryAssets (1)_139
+  - first:
+      213: 1168638409749467524
+    second: TinyLibraryAssets (1)_140
+  - first:
+      213: 4808776541983235571
+    second: TinyLibraryAssets (1)_141
+  - first:
+      213: 3821798057502548873
+    second: TinyLibraryAssets (1)_142
+  - first:
+      213: -875746459237906544
+    second: TinyLibraryAssets (1)_143
+  - first:
+      213: 9085011048484352598
+    second: TinyLibraryAssets (1)_144
+  - first:
+      213: -2226840198704152544
+    second: TinyLibraryAssets (1)_145
+  - first:
+      213: 845357785542843177
+    second: TinyLibraryAssets (1)_146
+  - first:
+      213: 3488959496191628167
+    second: TinyLibraryAssets (1)_147
+  - first:
+      213: -3865685586245969000
+    second: TinyLibraryAssets (1)_148
+  - first:
+      213: 6584437916771642999
+    second: TinyLibraryAssets (1)_149
+  - first:
+      213: 8628712259040851311
+    second: TinyLibraryAssets (1)_150
+  - first:
+      213: -7357732205867753583
+    second: TinyLibraryAssets (1)_151
+  - first:
+      213: -6179189202369962801
+    second: TinyLibraryAssets (1)_152
+  - first:
+      213: -943631353899962784
+    second: TinyLibraryAssets (1)_153
+  - first:
+      213: -8378978807710604707
+    second: TinyLibraryAssets (1)_154
+  - first:
+      213: 2825631047168247850
+    second: TinyLibraryAssets (1)_155
+  - first:
+      213: -9068801678421653797
+    second: TinyLibraryAssets (1)_156
+  - first:
+      213: -3252905376369122621
+    second: TinyLibraryAssets (1)_157
+  - first:
+      213: -2853094730555453157
+    second: TinyLibraryAssets (1)_158
+  - first:
+      213: 2129644424295777198
+    second: TinyLibraryAssets (1)_159
+  - first:
+      213: -3577165058128492075
+    second: TinyLibraryAssets (1)_160
+  - first:
+      213: -3835730698340238977
+    second: TinyLibraryAssets (1)_161
+  - first:
+      213: 5137806703373204073
+    second: TinyLibraryAssets (1)_162
+  - first:
+      213: -9146706088258367457
+    second: TinyLibraryAssets (1)_163
+  - first:
+      213: 3573003858947801953
+    second: TinyLibraryAssets (1)_164
+  - first:
+      213: 1719428056768981962
+    second: TinyLibraryAssets (1)_165
+  - first:
+      213: 725085190983745740
+    second: TinyLibraryAssets (1)_166
+  - first:
+      213: 8773453000305064605
+    second: TinyLibraryAssets (1)_167
+  - first:
+      213: 7633271126109828259
+    second: TinyLibraryAssets (1)_168
+  - first:
+      213: 4356503296371451214
+    second: TinyLibraryAssets (1)_169
+  - first:
+      213: 5326547685300078322
+    second: TinyLibraryAssets (1)_170
+  - first:
+      213: -6457039248698772120
+    second: TinyLibraryAssets (1)_171
+  - first:
+      213: 1691060534860451897
+    second: TinyLibraryAssets (1)_172
+  - first:
+      213: 7375490340340541374
+    second: TinyLibraryAssets (1)_173
+  - first:
+      213: -1772837044094886541
+    second: TinyLibraryAssets (1)_174
+  - first:
+      213: -9052502174146968939
+    second: TinyLibraryAssets (1)_175
+  - first:
+      213: -4625924035728232427
+    second: TinyLibraryAssets (1)_176
+  - first:
+      213: -4861006718601738898
+    second: TinyLibraryAssets (1)_177
+  - first:
+      213: -4604359016893206395
+    second: TinyLibraryAssets (1)_178
+  - first:
+      213: -4523219125660041176
+    second: TinyLibraryAssets (1)_179
+  - first:
+      213: 3402285069754061096
+    second: TinyLibraryAssets (1)_180
+  - first:
+      213: 6141799495955141260
+    second: TinyLibraryAssets (1)_181
+  - first:
+      213: 1013286780661014794
+    second: TinyLibraryAssets (1)_182
+  - first:
+      213: -1357543314691593645
+    second: TinyLibraryAssets (1)_183
+  - first:
+      213: 5137354923721727865
+    second: TinyLibraryAssets (1)_184
+  - first:
+      213: 199138530343057058
+    second: TinyLibraryAssets (1)_185
+  - first:
+      213: 4123707319703914503
+    second: TinyLibraryAssets (1)_186
+  - first:
+      213: -7092465649600439730
+    second: TinyLibraryAssets (1)_187
+  - first:
+      213: -7830371005725557516
+    second: TinyLibraryAssets (1)_188
+  - first:
+      213: -4272797158828360197
+    second: TinyLibraryAssets (1)_189
+  - first:
+      213: -7733106251977812198
+    second: TinyLibraryAssets (1)_190
+  - first:
+      213: -5284744103191227691
+    second: TinyLibraryAssets (1)_191
+  - first:
+      213: -7751019525622609997
+    second: TinyLibraryAssets (1)_192
+  - first:
+      213: -2344120206144770741
+    second: TinyLibraryAssets (1)_193
+  - first:
+      213: -4422917559747803470
+    second: TinyLibraryAssets (1)_194
+  - first:
+      213: -8165157979206444531
+    second: TinyLibraryAssets (1)_195
+  - first:
+      213: 548396438013057095
+    second: TinyLibraryAssets (1)_196
+  - first:
+      213: 4866791549837098977
+    second: TinyLibraryAssets (1)_197
+  - first:
+      213: 2118524155114815428
+    second: TinyLibraryAssets (1)_198
+  - first:
+      213: 1923833942704297336
+    second: TinyLibraryAssets (1)_199
+  - first:
+      213: -8903638477088170719
+    second: TinyLibraryAssets (1)_200
+  - first:
+      213: 1304417696558143120
+    second: TinyLibraryAssets (1)_201
+  - first:
+      213: 1481341858820479538
+    second: TinyLibraryAssets (1)_202
+  - first:
+      213: 987032767055936699
+    second: TinyLibraryAssets (1)_203
+  - first:
+      213: -7832310298889987189
+    second: TinyLibraryAssets (1)_204
+  - first:
+      213: 1463051362960789351
+    second: TinyLibraryAssets (1)_205
+  - first:
+      213: -2845128751468554137
+    second: TinyLibraryAssets (1)_206
+  - first:
+      213: -7075189142635018134
+    second: TinyLibraryAssets (1)_207
+  - first:
+      213: -2521056971836783390
+    second: TinyLibraryAssets (1)_208
+  - first:
+      213: 832598186013842550
+    second: TinyLibraryAssets (1)_209
+  - first:
+      213: 7633040008870681196
+    second: TinyLibraryAssets (1)_210
+  - first:
+      213: 5913305130049824276
+    second: TinyLibraryAssets (1)_211
+  - first:
+      213: 7833534189826579043
+    second: TinyLibraryAssets (1)_212
+  - first:
+      213: -4546706189074270701
+    second: TinyLibraryAssets (1)_213
+  - first:
+      213: 212936115965865942
+    second: TinyLibraryAssets (1)_214
+  - first:
+      213: 6634519389740633355
+    second: TinyLibraryAssets (1)_215
+  - first:
+      213: 4968816917048058043
+    second: TinyLibraryAssets (1)_216
+  - first:
+      213: 611113558783424981
+    second: TinyLibraryAssets (1)_217
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 253
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700b0b9cb7d8defc0800000000000000
+      internalID: -3463956975573749753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 253
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b12891e43dc2f5f0800000000000000
+      internalID: -724290963046391374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 253
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05014121b6fe6a560800000000000000
+      internalID: 7324805087108534352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 253
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62efed6b2fd36e0800000000000000
+      internalID: -1856060604167608639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 235
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44068b50a6ffb80800000000000000
+      internalID: -8358845810575653645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 235
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3366e16a1c422920800000000000000
+      internalID: 2964015180958556988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 235
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886812d20c43d1060800000000000000
+      internalID: 6925749801961227912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 235
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7c8339d950c13d0800000000000000
+      internalID: -3234704258020882490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f7e139b30b2080800000000000000
+      internalID: -9211264518915100599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 218
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f4c36894913d70800000000000000
+      internalID: 9021154910829605145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 218
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef28ce5d4916360800000000000000
+      internalID: 7161168529012752028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 217
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abd82aff1afd3b0800000000000000
+      internalID: -5485487701798045062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 220
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91406cb348da2a6c0800000000000000
+      internalID: -4133550724522572775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 222
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a27f4e75e95d780800000000000000
+      internalID: -8658840608209163658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 221
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7277c41b6ea1b80800000000000000
+      internalID: -8423166503876614157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 218
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6dd79d053ebbc20800000000000000
+      internalID: 3223419894699513517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 218
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb5ba6945c4e020800000000000000
+      internalID: 2370236223017303952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd455db88bb67a560800000000000000
+      internalID: 7324941759305569503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_40
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc78f9f91e94ff90800000000000000
+      internalID: -6920732892956427060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9628b83ba3c77820800000000000000
+      internalID: 2916014423904102043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dfa1f34fb7d11b0800000000000000
+      internalID: -5684250865710727922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e846d338cacdbb10800000000000000
+      internalID: 1998976770834319585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 217
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107a85e1e0cb8040800000000000000
+      internalID: 4651023116641398812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 199
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f9ce6770b956870800000000000000
+      internalID: 8675510713561423672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 199
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b036397ad202a700800000000000000
+      internalID: 550005241852342456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 199
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf69d2335c0ddfcb0800000000000000
+      internalID: -4828473680085543173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 199
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac3b6b9efc09520800000000000000
+      internalID: 2706891978749233822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 181
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd45a7a7f48665c0800000000000000
+      internalID: -4222541401408844341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_72
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 181
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b480cb18158e979f0800000000000000
+      internalID: -470089249316927413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d648c29ea0c77280800000000000000
+      internalID: -9045549470530910509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6354b39d5830d5790800000000000000
+      internalID: -7539866327738268362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad912677a8d9d9540800000000000000
+      internalID: 5016338777994566106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 163
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2e4e1dbdffe8800800000000000000
+      internalID: 616711518580695804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 166
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ec73bab54095e70800000000000000
+      internalID: 9104312913467264552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 168
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f7c8546f2252c80800000000000000
+      internalID: -8348227893137211570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 167
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7272090e280d84800800000000000000
+      internalID: 596956211158460199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 164
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e041a83c7057e5930800000000000000
+      internalID: 4133870184178521102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 164
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349fe8fd54d750d0800000000000000
+      internalID: -3434042690773216208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc82ef96ebb7c30800000000000000
+      internalID: 4358286426856017040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 163
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91b153faeda64130800000000000000
+      internalID: 3550716580844384671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 145
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec7266bd10df2b0800000000000000
+      internalID: -5549277124027232544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_96
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 145
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fda2f13bdd8b820800000000000000
+      internalID: 2934338918623666045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_108
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 136
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bc4657d8a78ec70800000000000000
+      internalID: 9000578603278453567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_109
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 136
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed4f81d275770a0800000000000000
+      internalID: -6883937654208668113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f23463d59dda67a0800000000000000
+      internalID: -6383045886277831952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_111
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 110
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19aab00e0d318800800000000000000
+      internalID: 612838154650167580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_112
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 110
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62510f5aac199a240800000000000000
+      internalID: 4803530777120740646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_113
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 109
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e0f3c6781211b0800000000000000
+      internalID: -5687456481042963088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_114
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 112
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b5efbef268ba890800000000000000
+      internalID: -7445710018546083028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 114
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4950c3927882fbe0800000000000000
+      internalID: -1444942504746002098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_116
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 113
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfb4903bbc75d60800000000000000
+      internalID: 7878990042923531767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_117
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b929eb39b9f5fc0800000000000000
+      internalID: -3503910926211179681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 110
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a7f0f9e9b900880800000000000000
+      internalID: -8646740178975622509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_119
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa2930faabdbd1d0800000000000000
+      internalID: -3324822372661777747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_120
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32736da98f038d00800000000000000
+      internalID: 973639028436070973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c76eb4f42cd240800000000000000
+      internalID: 4817766334964679537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_122
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb62b2a9f0306730800000000000000
+      internalID: 3990243118584851378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_123
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 110
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c309438ad32bc90800000000000000
+      internalID: -7155589065292628892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 109
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f6e30f57783f260800000000000000
+      internalID: 7130191575669174054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_136
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 91
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445a56d9f686e5b0800000000000000
+      internalID: -5339431900599921592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_137
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6818a93eb3dd37bb0800000000000000
+      internalID: -4939361117003939450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_138
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4715880ecdeb68df0800000000000000
+      internalID: -178245279365443212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 91
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821579bfd5df28c20800000000000000
+      internalID: 3207404464735998248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_151
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 73
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f1dccaa8514e990800000000000000
+      internalID: -7357732205867753583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_152
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 73
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1fc0c82c1f3aa0800000000000000
+      internalID: -6179189202369962801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_153
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e2fdf784c87e2f0800000000000000
+      internalID: -943631353899962784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5222e90b23e7bb80800000000000000
+      internalID: -8378978807710604707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_155
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2847c07778a63720800000000000000
+      internalID: 2825631047168247850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_156
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6063b0ce4252280800000000000000
+      internalID: -9068801678421653797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_157
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c26f897bcb5bd2d0800000000000000
+      internalID: -3252905376369122621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_158
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 58
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1114ba7575c768d0800000000000000
+      internalID: -2853094730555453157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_159
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 60
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea38a0012540e8d10800000000000000
+      internalID: 2129644424295777198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_160
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9cf4f055b5b5ec0800000000000000
+      internalID: -3577165058128492075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_161
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 56
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797e5f904fb4cac0800000000000000
+      internalID: -3835730698340238977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_162
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a3e27b9f72d4740800000000000000
+      internalID: 5137806703373204073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_163
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f101578264f501180800000000000000
+      internalID: -9146706088258367457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_164
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 55
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1630fa1441cd59130800000000000000
+      internalID: 3573003858947801953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_165
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 55
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2e8c25b2acd710800000000000000
+      internalID: 1719428056768981962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_166
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 55
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08b78b325001a00800000000000000
+      internalID: 725085190983745740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_167
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 55
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab4c0250191c970800000000000000
+      internalID: 8773453000305064605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_168
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 55
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4b50a75a3dee960800000000000000
+      internalID: 7633271126109828259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a59e57298ce8410800000000000000
+      internalID: 1481341858820479538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_203
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc3a067215a2bd00800000000000000
+      internalID: 987032767055936699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_204
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5700d74b0e4390800000000000000
+      internalID: -7832310298889987189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_205
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fcd69867dcd4410800000000000000
+      internalID: 1463051362960789351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_206
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768577489721488d0800000000000000
+      internalID: -2845128751468554137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_207
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a680a82f5f0efcd90800000000000000
+      internalID: -7075189142635018134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_208
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4852f8a08630dd0800000000000000
+      internalID: -2521056971836783390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_209
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5dfd83abfd8b00800000000000000
+      internalID: 832598186013842550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_210
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad41d42710ee960800000000000000
+      internalID: 7633040008870681196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_211
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4166d1d8fa7401250800000000000000
+      internalID: 5913305130049824276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_212
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a9d7087dd46bc60800000000000000
+      internalID: 7833534189826579043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_213
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316782e7fcad6e0c0800000000000000
+      internalID: -4546706189074270701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_214
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df2fffe44084f200800000000000000
+      internalID: 212936115965865942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_215
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d8ee8db3c821c50800000000000000
+      internalID: 6634519389740633355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_216
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e99ef8a8c4f440800000000000000
+      internalID: 4968816917048058043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_217
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9f5bc3b8c1b7800800000000000000
+      internalID: 611113558783424981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 37
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2467357d2fe86da48b832339563020c0
+      internalID: 3818035123338196842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9b05ed28c70f4d86b307d28b03837
+      internalID: 5916438153592021951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b2425e9093b040b2e93547208ad92
+      internalID: 4973287869087551760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyLibraryAssets (1)_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e9d92b9a053c468b9f4811aa84e50
+      internalID: 8802298138618723043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 930a61c865bc6d64ebb19e1229be3016
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TinyLibraryAssets (1)_0: 3818035123338196842
+      TinyLibraryAssets (1)_1: 5916438153592021951
+      TinyLibraryAssets (1)_10: -8399780459029847393
+      TinyLibraryAssets (1)_100: -2347093611541527782
+      TinyLibraryAssets (1)_101: -4697026043670550886
+      TinyLibraryAssets (1)_102: -2560703357944008422
+      TinyLibraryAssets (1)_103: -8373487292916223229
+      TinyLibraryAssets (1)_104: -8445476796497264422
+      TinyLibraryAssets (1)_105: 67032145018650861
+      TinyLibraryAssets (1)_106: -9137905198747388218
+      TinyLibraryAssets (1)_107: -8442736247522144057
+      TinyLibraryAssets (1)_108: 9000578603278453567
+      TinyLibraryAssets (1)_109: -6883937654208668113
+      TinyLibraryAssets (1)_11: -3463956975573749753
+      TinyLibraryAssets (1)_110: -6383045886277831952
+      TinyLibraryAssets (1)_111: 612838154650167580
+      TinyLibraryAssets (1)_112: 4803530777120740646
+      TinyLibraryAssets (1)_113: -5687456481042963088
+      TinyLibraryAssets (1)_114: -7445710018546083028
+      TinyLibraryAssets (1)_115: -1444942504746002098
+      TinyLibraryAssets (1)_116: 7878990042923531767
+      TinyLibraryAssets (1)_117: -3503910926211179681
+      TinyLibraryAssets (1)_118: -8646740178975622509
+      TinyLibraryAssets (1)_119: -3324822372661777747
+      TinyLibraryAssets (1)_12: -724290963046391374
+      TinyLibraryAssets (1)_120: 973639028436070973
+      TinyLibraryAssets (1)_121: 4817766334964679537
+      TinyLibraryAssets (1)_122: 3990243118584851378
+      TinyLibraryAssets (1)_123: -7155589065292628892
+      TinyLibraryAssets (1)_124: 7130191575669174054
+      TinyLibraryAssets (1)_125: 9090397856050834182
+      TinyLibraryAssets (1)_126: -5079859758892640270
+      TinyLibraryAssets (1)_127: 3957206194364827490
+      TinyLibraryAssets (1)_128: -6899440387033229611
+      TinyLibraryAssets (1)_129: -6726927677834579251
+      TinyLibraryAssets (1)_13: 7324805087108534352
+      TinyLibraryAssets (1)_130: 1008056380350917535
+      TinyLibraryAssets (1)_131: 648425771106303164
+      TinyLibraryAssets (1)_132: -4792287921086224725
+      TinyLibraryAssets (1)_133: 7691932631018320800
+      TinyLibraryAssets (1)_134: -967303953480863545
+      TinyLibraryAssets (1)_135: -8204015709208682344
+      TinyLibraryAssets (1)_136: -5339431900599921592
+      TinyLibraryAssets (1)_137: -4939361117003939450
+      TinyLibraryAssets (1)_138: -178245279365443212
+      TinyLibraryAssets (1)_139: 3207404464735998248
+      TinyLibraryAssets (1)_14: -1856060604167608639
+      TinyLibraryAssets (1)_140: 1168638409749467524
+      TinyLibraryAssets (1)_141: 4808776541983235571
+      TinyLibraryAssets (1)_142: 3821798057502548873
+      TinyLibraryAssets (1)_143: -875746459237906544
+      TinyLibraryAssets (1)_144: 9085011048484352598
+      TinyLibraryAssets (1)_145: -2226840198704152544
+      TinyLibraryAssets (1)_146: 845357785542843177
+      TinyLibraryAssets (1)_147: 3488959496191628167
+      TinyLibraryAssets (1)_148: -3865685586245969000
+      TinyLibraryAssets (1)_149: 6584437916771642999
+      TinyLibraryAssets (1)_15: -8783367678057845293
+      TinyLibraryAssets (1)_150: 8628712259040851311
+      TinyLibraryAssets (1)_151: -7357732205867753583
+      TinyLibraryAssets (1)_152: -6179189202369962801
+      TinyLibraryAssets (1)_153: -943631353899962784
+      TinyLibraryAssets (1)_154: -8378978807710604707
+      TinyLibraryAssets (1)_155: 2825631047168247850
+      TinyLibraryAssets (1)_156: -9068801678421653797
+      TinyLibraryAssets (1)_157: -3252905376369122621
+      TinyLibraryAssets (1)_158: -2853094730555453157
+      TinyLibraryAssets (1)_159: 2129644424295777198
+      TinyLibraryAssets (1)_16: 8030736885671361153
+      TinyLibraryAssets (1)_160: -3577165058128492075
+      TinyLibraryAssets (1)_161: -3835730698340238977
+      TinyLibraryAssets (1)_162: 5137806703373204073
+      TinyLibraryAssets (1)_163: -9146706088258367457
+      TinyLibraryAssets (1)_164: 3573003858947801953
+      TinyLibraryAssets (1)_165: 1719428056768981962
+      TinyLibraryAssets (1)_166: 725085190983745740
+      TinyLibraryAssets (1)_167: 8773453000305064605
+      TinyLibraryAssets (1)_168: 7633271126109828259
+      TinyLibraryAssets (1)_169: 4356503296371451214
+      TinyLibraryAssets (1)_17: 7836383876566927322
+      TinyLibraryAssets (1)_170: 5326547685300078322
+      TinyLibraryAssets (1)_171: -6457039248698772120
+      TinyLibraryAssets (1)_172: 1691060534860451897
+      TinyLibraryAssets (1)_173: 7375490340340541374
+      TinyLibraryAssets (1)_174: -1772837044094886541
+      TinyLibraryAssets (1)_175: -9052502174146968939
+      TinyLibraryAssets (1)_176: -4625924035728232427
+      TinyLibraryAssets (1)_177: -4861006718601738898
+      TinyLibraryAssets (1)_178: -4604359016893206395
+      TinyLibraryAssets (1)_179: -4523219125660041176
+      TinyLibraryAssets (1)_18: 4688198417635620956
+      TinyLibraryAssets (1)_180: 3402285069754061096
+      TinyLibraryAssets (1)_181: 6141799495955141260
+      TinyLibraryAssets (1)_182: 1013286780661014794
+      TinyLibraryAssets (1)_183: -1357543314691593645
+      TinyLibraryAssets (1)_184: 5137354923721727865
+      TinyLibraryAssets (1)_185: 199138530343057058
+      TinyLibraryAssets (1)_186: 4123707319703914503
+      TinyLibraryAssets (1)_187: -7092465649600439730
+      TinyLibraryAssets (1)_188: -7830371005725557516
+      TinyLibraryAssets (1)_189: -4272797158828360197
+      TinyLibraryAssets (1)_19: 5448989965342200793
+      TinyLibraryAssets (1)_190: -7733106251977812198
+      TinyLibraryAssets (1)_191: -5284744103191227691
+      TinyLibraryAssets (1)_192: -7751019525622609997
+      TinyLibraryAssets (1)_193: -2344120206144770741
+      TinyLibraryAssets (1)_194: -4422917559747803470
+      TinyLibraryAssets (1)_195: -8165157979206444531
+      TinyLibraryAssets (1)_196: 548396438013057095
+      TinyLibraryAssets (1)_197: 4866791549837098977
+      TinyLibraryAssets (1)_198: 2118524155114815428
+      TinyLibraryAssets (1)_199: 1923833942704297336
+      TinyLibraryAssets (1)_2: 4973287869087551760
+      TinyLibraryAssets (1)_20: -8828660579258902931
+      TinyLibraryAssets (1)_200: -8903638477088170719
+      TinyLibraryAssets (1)_201: 1304417696558143120
+      TinyLibraryAssets (1)_202: 1481341858820479538
+      TinyLibraryAssets (1)_203: 987032767055936699
+      TinyLibraryAssets (1)_204: -7832310298889987189
+      TinyLibraryAssets (1)_205: 1463051362960789351
+      TinyLibraryAssets (1)_206: -2845128751468554137
+      TinyLibraryAssets (1)_207: -7075189142635018134
+      TinyLibraryAssets (1)_208: -2521056971836783390
+      TinyLibraryAssets (1)_209: 832598186013842550
+      TinyLibraryAssets (1)_21: 5707517796905961751
+      TinyLibraryAssets (1)_210: 7633040008870681196
+      TinyLibraryAssets (1)_211: 5913305130049824276
+      TinyLibraryAssets (1)_212: 7833534189826579043
+      TinyLibraryAssets (1)_213: -4546706189074270701
+      TinyLibraryAssets (1)_214: 212936115965865942
+      TinyLibraryAssets (1)_215: 6634519389740633355
+      TinyLibraryAssets (1)_216: 4968816917048058043
+      TinyLibraryAssets (1)_217: 611113558783424981
+      TinyLibraryAssets (1)_22: -101171022873456330
+      TinyLibraryAssets (1)_23: -8052278489443800428
+      TinyLibraryAssets (1)_24: -6506472170246892252
+      TinyLibraryAssets (1)_25: -5614887376325407911
+      TinyLibraryAssets (1)_26: -8358845810575653645
+      TinyLibraryAssets (1)_27: 2964015180958556988
+      TinyLibraryAssets (1)_28: 6925749801961227912
+      TinyLibraryAssets (1)_29: -3234704258020882490
+      TinyLibraryAssets (1)_3: 8802298138618723043
+      TinyLibraryAssets (1)_30: -9211264518915100599
+      TinyLibraryAssets (1)_31: 9021154910829605145
+      TinyLibraryAssets (1)_32: 7161168529012752028
+      TinyLibraryAssets (1)_33: -5485487701798045062
+      TinyLibraryAssets (1)_34: -4133550724522572775
+      TinyLibraryAssets (1)_35: -8658840608209163658
+      TinyLibraryAssets (1)_36: -8423166503876614157
+      TinyLibraryAssets (1)_37: 3223419894699513517
+      TinyLibraryAssets (1)_38: 2370236223017303952
+      TinyLibraryAssets (1)_39: 7324941759305569503
+      TinyLibraryAssets (1)_4: -8636237618886601873
+      TinyLibraryAssets (1)_40: -6920732892956427060
+      TinyLibraryAssets (1)_41: 2916014423904102043
+      TinyLibraryAssets (1)_42: -5684250865710727922
+      TinyLibraryAssets (1)_43: 1998976770834319585
+      TinyLibraryAssets (1)_44: 4651023116641398812
+      TinyLibraryAssets (1)_45: -6912953935213453606
+      TinyLibraryAssets (1)_46: -4692714537202488770
+      TinyLibraryAssets (1)_47: 3391006619581826921
+      TinyLibraryAssets (1)_48: 6088852662397348297
+      TinyLibraryAssets (1)_49: 3134970706475750369
+      TinyLibraryAssets (1)_5: -7006727634646744922
+      TinyLibraryAssets (1)_50: 358217352834495421
+      TinyLibraryAssets (1)_51: 7914514815829303750
+      TinyLibraryAssets (1)_52: -7106751341641253682
+      TinyLibraryAssets (1)_53: 4810797637177429889
+      TinyLibraryAssets (1)_54: -4129647765665150643
+      TinyLibraryAssets (1)_55: 1388121430870041498
+      TinyLibraryAssets (1)_56: 8675510713561423672
+      TinyLibraryAssets (1)_57: 550005241852342456
+      TinyLibraryAssets (1)_58: -4828473680085543173
+      TinyLibraryAssets (1)_59: 2706891978749233822
+      TinyLibraryAssets (1)_6: 7342598431300324412
+      TinyLibraryAssets (1)_60: 375733826360628266
+      TinyLibraryAssets (1)_61: -259088353764117861
+      TinyLibraryAssets (1)_62: -3893152485770733982
+      TinyLibraryAssets (1)_63: 6490395042021031692
+      TinyLibraryAssets (1)_64: 3222003475552272393
+      TinyLibraryAssets (1)_65: -4012515180487045140
+      TinyLibraryAssets (1)_66: -625079198124168471
+      TinyLibraryAssets (1)_67: -6311379559668340338
+      TinyLibraryAssets (1)_68: 3671868178185733137
+      TinyLibraryAssets (1)_69: -5637326110855163474
+      TinyLibraryAssets (1)_7: 2144705660682782704
+      TinyLibraryAssets (1)_70: 7036153201088893396
+      TinyLibraryAssets (1)_71: -4222541401408844341
+      TinyLibraryAssets (1)_72: -470089249316927413
+      TinyLibraryAssets (1)_73: -9045549470530910509
+      TinyLibraryAssets (1)_74: -7539866327738268362
+      TinyLibraryAssets (1)_75: 5016338777994566106
+      TinyLibraryAssets (1)_76: 616711518580695804
+      TinyLibraryAssets (1)_77: 9104312913467264552
+      TinyLibraryAssets (1)_78: -8348227893137211570
+      TinyLibraryAssets (1)_79: 596956211158460199
+      TinyLibraryAssets (1)_8: 1517262604735490328
+      TinyLibraryAssets (1)_80: 4133870184178521102
+      TinyLibraryAssets (1)_81: -3434042690773216208
+      TinyLibraryAssets (1)_82: 4358286426856017040
+      TinyLibraryAssets (1)_83: 3550716580844384671
+      TinyLibraryAssets (1)_84: -3360729396366501065
+      TinyLibraryAssets (1)_85: -80497332765727987
+      TinyLibraryAssets (1)_86: -1315164818842797478
+      TinyLibraryAssets (1)_87: 5645755870191371186
+      TinyLibraryAssets (1)_88: -3249275081063080429
+      TinyLibraryAssets (1)_89: -4358445362337334385
+      TinyLibraryAssets (1)_9: -1556903745292405835
+      TinyLibraryAssets (1)_90: 8335461464342160231
+      TinyLibraryAssets (1)_91: -2302995920637375108
+      TinyLibraryAssets (1)_92: -6527277233971086555
+      TinyLibraryAssets (1)_93: -3738403334478619477
+      TinyLibraryAssets (1)_94: 8984404695476310626
+      TinyLibraryAssets (1)_95: -5549277124027232544
+      TinyLibraryAssets (1)_96: 2934338918623666045
+      TinyLibraryAssets (1)_97: 6186041212721815258
+      TinyLibraryAssets (1)_98: -3181399422691849915
+      TinyLibraryAssets (1)_99: 5650105180400882079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
